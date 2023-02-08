@@ -1,2 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/6w4ct8wpgj680023?svg=true)](https://ci.appveyor.com/project/Olga83162/rest)
-тест
+[![Java CI with Gradle](https://github.com/OlgaBrazh/rest/actions/workflows/gradle.yml/badge.svg)](https://github.com/OlgaBrazh/rest/actions/workflows/gradle.yml)
